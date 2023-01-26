@@ -1,0 +1,184 @@
+body { 
+    font-family: 'Poppins', sans-serif;
+}
+.blogs button:hover
+{
+    background-color:black;
+    color: #fff;
+}
+ /* header */
+.header-container
+{
+    background-image: url("/images/bg.jpg");
+    height: 100%;
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.header
+{
+    padding: 20px;
+    margin: 0 auto;
+}
+.header h5
+{
+    color: white;
+    font-weight: 900;
+}
+h5 span
+{
+    font-weight: 100;
+}
+.header .menu
+{
+    color: white;
+    font-size: 12px;
+    margin-top:10px;
+}
+
+/* banner */
+.banner
+{
+    text-align: center;
+    margin-top: 140px;
+    color: white;
+}
+.banner p
+{
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.banner hr
+{
+    width:30%;
+}
+.banner h1
+{
+    font-size: 80px;
+}
+/* banner ennds */
+
+/* blog container starts here */
+.blog-container
+{
+    padding: 90px 0px;
+    background-color: #fff9f9;
+}
+
+.blogs
+{ 
+
+    margin:30px 0px 0px 0px;
+    background-color: #fff;
+    padding:0px 0px 30px 0px;
+    text-align: center;
+}
+.blogs h4
+{
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+.blogs hr
+{
+    width: 40%;
+}
+.blogs p{
+    line-height: 25px;
+    text-align: left;
+    padding: 20px;
+}
+.blogs img
+{
+    width:100%;
+}
+.blogs button
+{
+    width: 120px;
+    height: 50px;
+    background-color: transparent;
+}
+
+/* blog container ends here */
+
+/*  */
+.center-content
+{
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 50%;
+}
+.center
+{
+    text-align: center; 
+    margin-top: 80px;
+    color: #fff;
+}
+.center p
+{
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+.center hr
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 40%;
+}
+.center h3
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/*  */
+
+/* galary starts here */
+.galary
+{  
+    padding-bottom: 50px;
+    background-color: #eeeeee;
+}
+
+.galary-center
+{
+    text-align: center; 
+    margin-top: 80px;
+}
+.galary-center p
+{
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+.galary-center hr
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 40%;
+    color: black;
+}
+.galary-center h3
+{
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+.galary img
+{   
+    border: 15px solid #fff;
+    width:95%;
+    margin-top: 20px;
+}
+.footer
+{
+    background-color: black;
+    color: #fff;
+    padding: 30px 0px;
+}
+.footer span
+{
+    padding-left: 12px;
+}
